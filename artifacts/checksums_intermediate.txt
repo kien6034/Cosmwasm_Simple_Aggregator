@@ -1,0 +1,2 @@
+c6e0e9bde6fa702b4631420e57808f7d26403a1eec6128c2683776589bfa86ad  target/wasm32-unknown-unknown/release/pair.wasm
+719545f43e985c302f8d9db6d559013e743d979bd17c6d21a7f95acd803619d4  target/wasm32-unknown-unknown/release/router.wasm
