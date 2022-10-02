@@ -1,9 +1,9 @@
 ## Introduction 
-This SCA - Synthetic Crypto Assets is a project that aim to reflex the value of real world asset into the SCA tokens. For example, anyone can create new sGOLD token on the blockchain using this model and allow anyone and everyone to trade sGold. 
 
-## Design 
-The model follow the leverage loan design -- The user need to over-collateralize in order to issue new SCA tokens 
+The project aims at mocking a simple Aggregator, mocking simple Dexs, and performing swap via the router contract.  
 
+
+The main purposes is for learning message and submessage call in Cosmos smartcontracts 
 
 ## Project architecture 
 
@@ -17,4 +17,4 @@ Implementation of the model using the CosmWasm framework
 Scripts for deployment and interaction on the Terra blockchain. 
 
 #### Running scripts 
-For example, deploy all the contract: python3 -m scripts.deploy.all
+For example, testing the contract: python3 -m scripts.test.pair
